@@ -30,12 +30,24 @@ En los años **2014 a 2016** en el escenario politico y digital ocurria lo sigue
 
   - Entre 2012 y 2016, coincidiendo con la transición de las redes sociales a los dispositivos móviles, hubo un gran auge de aplicativos y sitios web que contenían *Tests de personalidad*. En este contexto, entre el año 2013 y 2014, Kogan creo una encuesta titulada ***"This is your digital life"***, que, según sus declaraciones, tenía la única finalidad de estudiar fenómenos comportamentales para avanzar en su campo de investigación: la psicología.
   
-  - A través de esta encuesta, que fue respondida por unos 270.000 usuarios, Kogan no solo obtuvo los perfiles psicológicos de quienes la respondieron, sino que, por medio de los permisos que pedía su aplicativo, pudo capturar información completa de los perfiles de Facebook de todas las personas en la lista de amigos de cada usuario que interactuó con la encuesta.
+  - A través de esta encuesta, que fue respondida por unos 270.000 usuarios, Kogan no solo obtuvo los perfiles psicológicos de quienes la respondieron, sino que, por medio de los permisos que pedía su aplicativo y debido a una ***falla en la construcción de la API de Facebook***, pudo capturar información completa de los perfiles de Facebook de todas las personas en la lista de amigos de cada usuario que interactuó con la encuesta, lo que hizo que el número de datos filtrados creciera de forma exponencial.
 
->[!IMPORTANT]
-> A demás de los datos de caracterización básica, Kogan obtuvo **DATOS DE INTERACCIONES** de hasta **81 MILLONES DE PERSONAS**, que como veremos a continuación, pueden reflejar incluso con mayor precisión el perfil psicológico de un usuario que las propias encuestas respondidas.
->
-> En la base de datos que recopiló Kogan se encontraban datos desde los capturados "más evidentes", como los ***Likes*** y los ***comentarios***, hasta los menos controlables y ni siquiera visibles para los usuarios, como las preferencias de contenido de cada uno con base en los ***tipos de perfiles con los que más interactuaban***.
+   > ### ¡ IMPORTANTE !
+   > 
+   > Kogan logro obtener no solo caracterizaciones básicas sino **DATOS DE INTERACCIONES** de hasta **81 MILLONES DE PERSONAS**, que     como veremos a continuación, pueden reflejar incluso con mayor precisión el perfil psicológico de un usuario que las propias encuestas respondidas.
+   >
+   > En la base de datos que recopiló Kogan se encontraban datos desde los capturados "más evidentes", como los ***Likes*** y los ***comentarios***, hasta los menos controlables y ni siquiera visibles para los usuarios, como las preferencias de contenido de cada uno con base en los ***tipos de perfiles con los que más interactuaban***.
+   >
+   
+   - Tras su recopilación, considerada ***ilegítima*** porque contenía datos de personas que no interactuaron con la encuesta y que por ende no habían aceptado los términos y condiciones, Kogan vendió la base a la compañía inglesa Cambridge Analytica.
+   - Finalmente, al momento de dar declaraciones, Kogan argumentó que todos los involucrados pretendían usarlo como un ***chivo expiatorio***, puesto que, dejando de lado la corrección moral del asunto, debe tenerse en cuenta que:
+     
+       - La responsabilidad de la protección de los datos de los usuarios depende de la plataforma que los almacena (en este caso Facebook). Así pues, "sin importar la intención del investigador", fue Facebook quien permitió que la información de los usuarios que no habían consentido se filtrara gracias la arquitectura de su software.
+       - La práctica de comprar, vender y hacer transferencias con bases de datos (incluso de personas) está totalmente protegida por la ley y es extremadamente común en el mundo de las redes sociales.
+         
+    - Así pues, Aleksandr Kogan traslada toda la responsabilidad de los hechos a las dos grandes empresas involucradas, quienes almacenaron los datos de manera deficiente y los trataron con un objetivo coercitivo respectivamente.
+ 
+
 ### *Estructura del documento*
 
 Para explicar en detalle este proyecto en ciencia de datos el documento tiene las siguentes secciones:
