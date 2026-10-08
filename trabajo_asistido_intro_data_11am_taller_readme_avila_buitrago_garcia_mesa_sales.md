@@ -6,18 +6,18 @@
   
 </div>
 
-## *Introducción*
+### *Introducción*
 El caso de ***Aleksandr Kogan*** y ***Cambrige Analytica*** representa uno de los casos más criticos en la historia de la ciencia de datos moderna, la seguridad digital y la gobernanza de datos. Todo comenzo como un proyecto de investigación en psicología computacional y termino convirtiendose en una de las mayores filtraciones de datos en la historia de las redes sociales y en una herramienta de control social masiva utilizada en las elecciones presidenciales de Estados Unidos en 2016.
 
 Este caso demuestra como la mineria de datos sin control y modelado psicográfico puede modelar la opinión pública e influir en los procesos democráticos sin el consentimiento de los usuarios.
 
-## *Contexto Histórico* 
+### *Contexto Histórico* 
 
 En los años **2014 a 2016** en el escenario politico y digital ocurria lo siguente:
 - **El auge del *Big Data* en redes sociales:** En 2014, plataformas como Facebook tenian políticas de privacidad debibles y APIs abiertas que permitían a los desarrolladores externos acceder a grandes volumenes de datos de los usuarios.
 - **El escenario politico en 2016:** La disputa electoral en EE.UU. entre Donald Trump y Hillary Clinton fue el escenario ideal para probar nuevas estrategias de publicidad altamente segmentadas.
 
-## *¿Por qué fue un evento tan influyente?*
+### *¿Por qué fue un evento tan influyente?*
 >[!IMPORTANT]
 >Este caso fue hito en el mundo de la tecnología, la política y en el manejo de datos.
 
@@ -49,7 +49,7 @@ Para explicar en detalle este proyecto en ciencia de datos <br>el documento tien
   
   - A través de esta encuesta, que fue respondida por unos 270.000 usuarios, Kogan no solo obtuvo los perfiles psicológicos de quienes la respondieron, sino que, por medio de los permisos que pedía su aplicativo y debido a una ***falla en la construcción de la API de Facebook***, pudo capturar información completa de los perfiles de Facebook de todas las personas en la lista de amigos de cada usuario que interactuó con la encuesta, lo que hizo que el número de datos filtrados creciera de forma exponencial.
 
-   > ### ¡ IMPORTANTE !
+   > #### ¡ IMPORTANTE !
    > 
    > Kogan logro obtener no solo caracterizaciones básicas sino **DATOS DE INTERACCIONES** de hasta **81 MILLONES DE PERSONAS**, que     como veremos a continuación, pueden reflejar incluso con mayor precisión el perfil psicológico de un usuario que las propias encuestas respondidas.
    >
