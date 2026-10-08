@@ -59,6 +59,30 @@ Para explicar en detalle este proyecto en ciencia de datos el documento tiene la
 3. **Implicaciones éticas y conclusiones:** Reflexión sobre la responsabilidad en Ciencia de Datos y el impacto en la gobernanza de datos actual.
    
 </details>
+
+### y entonces... ¿Qué hizo Kogan con los datos?
+
+Lo importante del trabajo de Kogan no fue la recopilación de los datos si no poder construir **perfiles psicometricos** de los usuarios a partir de estos, con información como likes, género, ubicación, edad, entre otros.... Esto para poder inferir características de la personallidad a partir de su comportamiento en las redes.
+
+Uno de los datos más importantes fueron los likes, porque estos permiten ver los patrones de lo que le gusta al usuario. 
+
+Este tipo de datos se usaron para estimar lo que el llama los cinco grandes rasgos de la personalidad del modelo ***OCEAN***:
+
+**O -> Openness:** o apertura
+**C -> Conscientiousness:** La responsabilidad
+**E -> Extraversion:** extraversión
+**A -> Agreeableness:** amabilidad.
+**N -> Neuroticism:** ell neuroticismo.
+
+Podemos resumir el proceso en :
+
+**Los datos extraídos de Facebook** -> **Patrones de comportamiento** -> **Perfíl psicométrico**
+
+Más adelante los datos fueron transferidos de GSR a SCL, la empresa vinculada a **Cambridge Analytica**, que usó esos datos junto con otras fuentes de información para segmentar audiencias políticas.
+
+>[!IMPORTANT]
+> Kogan estuvo involucrado en la **recopilación de datos** y el **desarrollo de modelos psicométricos**.
+> El uso de estos datos para la segmentación política correspondió a Cambridge Analytica.
   
 
   
