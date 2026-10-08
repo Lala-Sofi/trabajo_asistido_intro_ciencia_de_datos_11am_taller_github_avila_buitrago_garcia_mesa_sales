@@ -26,6 +26,18 @@ En los años **2014 a 2016** en el escenario politico y digital ocurria lo sigue
 3. **Redifinió las campañas electorales:** Demostró que las elecciones en el auge de las redes sociales ya no solo dependen de los medios tradicionales (TV o radio), sino mediante el uso de algoritmos de segmentación y análisis masivo de datos.
 4. **Marco precedentes para los gigantes tecnologicos:** Obligó a empresas como Facebook (Meta) a enfrentar investigaciones gubernamentales, pagar multas multimillonarias y reestructurar el acceso de terceros a sus plataformas.
 
+### *Estructura del documento*
+
+Para explicar en detalle este proyecto en ciencia de datos el documento tiene las siguentes secciones:
+<details>
+<summary>Haga click para desplegar</summary>
+  
+1. **Recolección de datos:** Detalle sobre el método de recopilación de Aleksandr Kogan y las herramientas utilizadas.
+2. **Procesamiento de datos:** Estrategia de analisis aplicada por Cambridge Analytica.
+3. **Implicaciones éticas y conclusiones:** Reflexión sobre la responsabilidad en Ciencia de Datos y el impacto en la gobernanza de datos actual.
+   
+</details>
+
 - ## El papel de Kogan: ¿Quién es en esta historia?
 
   - Entre 2012 y 2016, coincidiendo con la transición de las redes sociales a los dispositivos móviles, hubo un gran auge de aplicativos y sitios web que contenían *Tests de personalidad*. En este contexto, entre el año 2013 y 2014, Kogan creo una encuesta titulada ***"This is your digital life"***, que, según sus declaraciones, tenía la única finalidad de estudiar fenómenos comportamentales para avanzar en su campo de investigación: la psicología.
@@ -47,19 +59,6 @@ En los años **2014 a 2016** en el escenario politico y digital ocurria lo sigue
          
     - Así pues, Aleksandr Kogan traslada toda la responsabilidad de los hechos a las dos grandes empresas involucradas, quienes almacenaron los datos de manera deficiente y los trataron con un objetivo coercitivo respectivamente.
  
-
-### *Estructura del documento*
-
-Para explicar en detalle este proyecto en ciencia de datos el documento tiene las siguentes secciones:
-<details>
-<summary>Haga click para desplegar</summary>
-  
-1. **Recolección de datos:** Detalle sobre el método de recopilación de Aleksandr Kogan y las herramientas utilizadas.
-2. **Procesamiento de datos:** Estrategia de analisis aplicada por Cambridge Analytica.
-3. **Implicaciones éticas y conclusiones:** Reflexión sobre la responsabilidad en Ciencia de Datos y el impacto en la gobernanza de datos actual.
-   
-</details>
-
 ### y entonces... ¿Qué hizo Kogan con los datos?
 
 Lo importante del trabajo de Kogan no fue la recopilación de los datos si no poder construir **perfiles psicometricos** de los usuarios a partir de estos, con información como likes, género, ubicación, edad, entre otros.... Esto para poder inferir características de la personallidad a partir de su comportamiento en las redes.
