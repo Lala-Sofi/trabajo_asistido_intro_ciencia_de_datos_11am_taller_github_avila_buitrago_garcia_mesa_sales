@@ -67,11 +67,11 @@ Uno de los datos más importantes fueron los likes, porque estos permiten ver lo
 
 Este tipo de datos se usaron para estimar lo que el llama los cinco grandes rasgos de la personalidad del modelo ***OCEAN***:
 
-**O -> Openness:** o apertura
-**C -> Conscientiousness:** La responsabilidad
-**E -> Extraversion:** extraversión
-**A -> Agreeableness:** amabilidad.
-**N -> Neuroticism:** ell neuroticismo.
+- **O -> Openness:** o apertura
+- **C -> Conscientiousness:** La responsabilidad
+- **E -> Extraversion:** extraversión
+- **A -> Agreeableness:** amabilidad.
+- **N -> Neuroticism:** ell neuroticismo.
 
 Podemos resumir el proceso en :
 
@@ -82,6 +82,16 @@ Más adelante los datos fueron transferidos de GSR a SCL, la empresa vinculada a
 >[!IMPORTANT]
 > Kogan estuvo involucrado en la **recopilación de datos** y el **desarrollo de modelos psicométricos**.
 > El uso de estos datos para la segmentación política correspondió a Cambridge Analytica.
+
+### Implicaciones Eticas
+
+El caso de Aleksandr Kogan evidencia que en Ciencia de datos es necesario cuestionar la ética de las practicas de recolección de datos , y tener en cuenta hasta que punto las personas involucradas conocen el uso que se le estará otorgando a la información que se provee. Uno de los principales problemas del caso es un tema de consentimiento. La aplicación desarrollada por Kogan permitió obtener información de millones de usuarios de Facebook que no participaron activa y conscientemente en la encuesta. La FTC posteriormente también señaló que ka aplicación recopilo datos de usuarios y de sus contactos mediante afirmaciones engañosas. 
+
+Esto plantea una diferencia importante entre tener acceso a un dato y tener la autorización para su uso y distribución. Aunque la forma en la que Facebook operaba permitía tener acceso a los contactos de las personas, estas personas no habían decidido participar directamente en el proyecto. Desde la ética, la posibilidad técnica de acceder a un dato no debería interpretarse automáticamente como autorización para su uso o procesamiento. A través de este caso es posible entender que los usuarios deberían conocer no solo que datos se están recopilando, si no también para que serán utilizados posteriormente. El caso comprueba que en el proceso de tratar datos, la ética debería estar presente en todo momento, desde la recolección de los datos y su almacenamiento, hasta su análisis, transferencia y uso final. Principios como el consentimiento informado, la transparencia y la responsabilidad sobre los datos tratados, deberían verse como parte fundamental del trabajo profesional y no como obstáculos. 
+
+### Conclusiones
+
+Como conclusión, el caso de Aleksandr Kogan demuestra como un proyecto basado inicialmente en datos y modelos psicológicos puede adquirir consecuencias mucho mayores cuando la información comienza a utilizarse fuera del contexto original. La importancia del caso no solamente recae en la cantidad de datos que se recopilan, pero también en su uso y en la responsabilidad que se tiene con ellos. A partir de este caso se puede concluir que un científico de datos no debería simplemente evaluar si posee las herramientas para acceder o utilizar ciertos datos, pero también debe considerar el nivel de comprensión que poseen las personas que están otorgando estos datos, la coherencia entre el propósito de la investigación y la recolección y el uso que se le otorga a estos datos; y finalmente debe considerar las posibles consecuencias que podría traer un uso inadecuado de los datos.
   
 
   
