@@ -25,10 +25,12 @@ En los años **2014 a 2016** en el escenario politico y digital ocurria lo sigue
 2. **Tranformación en las regulaciones:** Fue un catalizador que aceleró la aprobación y aplicación de leyes estrictas de protección de datos a nivel mundial.
 3. **Redifinió las campañas electorales:** Demostró que las elecciones en el auge de las redes sociales ya no solo dependen de los medios tradicionales (TV o radio), sino mediante el uso de algoritmos de segmentación y análisis masivo de datos.
 4. **Marco precedentes para los gigantes tecnologicos:** Obligó a empresas como Facebook (Meta) a enfrentar investigaciones gubernamentales, pagar multas multimillonarias y reestructurar el acceso de terceros a sus plataformas.
+   
+<div align="center">
+  
+  ### *Estructura del documento*
 
-### *Estructura del documento*
-
-Para explicar en detalle este proyecto en ciencia de datos el documento tiene las siguentes secciones:
+Para explicar en detalle este proyecto en ciencia de datos <br>el documento tiene las siguentes secciones:
 <details>
 <summary>Haga click para desplegar</summary>
   
@@ -38,7 +40,10 @@ Para explicar en detalle este proyecto en ciencia de datos el documento tiene la
    
 </details>
 
-- ## El papel de Kogan: ¿Quién es en esta historia?
+</div>
+
+
+### El papel de Kogan: ¿Quién es en esta historia?
 
   - Entre 2012 y 2016, coincidiendo con la transición de las redes sociales a los dispositivos móviles, hubo un gran auge de aplicativos y sitios web que contenían *Tests de personalidad*. En este contexto, entre el año 2013 y 2014, Kogan creo una encuesta titulada ***"This is your digital life"***, que, según sus declaraciones, tenía la única finalidad de estudiar fenómenos comportamentales para avanzar en su campo de investigación: la psicología.
   
@@ -57,7 +62,7 @@ Para explicar en detalle este proyecto en ciencia de datos el documento tiene la
        - La responsabilidad de la protección de los datos de los usuarios depende de la plataforma que los almacena (en este caso Facebook). Así pues, "sin importar la intención del investigador", fue Facebook quien permitió que la información de los usuarios que no habían consentido se filtrara gracias la arquitectura de su software.
        - La práctica de comprar, vender y hacer transferencias con bases de datos (incluso de personas) está totalmente protegida por la ley y es extremadamente común en el mundo de las redes sociales.
          
-    - Así pues, Aleksandr Kogan traslada toda la responsabilidad de los hechos a las dos grandes empresas involucradas, quienes almacenaron los datos de manera deficiente y los trataron con un objetivo coercitivo respectivamente.
+Así pues, Aleksandr Kogan traslada toda la responsabilidad de los hechos a las dos grandes empresas involucradas, quienes almacenaron los datos de manera deficiente y los trataron con un objetivo coercitivo respectivamente.
  
 ### y entonces... ¿Qué hizo Kogan con los datos?
 
@@ -83,11 +88,11 @@ Más adelante los datos fueron transferidos de GSR a SCL, la empresa vinculada a
 > Kogan estuvo involucrado en la **recopilación de datos** y el **desarrollo de modelos psicométricos**.
 > El uso de estos datos para la segmentación política correspondió a Cambridge Analytica.
 
-### Implicaciones Eticas
+### Implicaciones Éticas
 
 El caso de Aleksandr Kogan evidencia que en Ciencia de datos es necesario cuestionar la ética de las practicas de recolección de datos , y tener en cuenta hasta que punto las personas involucradas conocen el uso que se le estará otorgando a la información que se provee. Uno de los principales problemas del caso es un tema de consentimiento. La aplicación desarrollada por Kogan permitió obtener información de millones de usuarios de Facebook que no participaron activa y conscientemente en la encuesta. La FTC posteriormente también señaló que ka aplicación recopilo datos de usuarios y de sus contactos mediante afirmaciones engañosas. 
 
-Esto plantea una diferencia importante entre tener acceso a un dato y tener la autorización para su uso y distribución. Aunque la forma en la que Facebook operaba permitía tener acceso a los contactos de las personas, estas personas no habían decidido participar directamente en el proyecto. Desde la ética, la posibilidad técnica de acceder a un dato no debería interpretarse automáticamente como autorización para su uso o procesamiento. A través de este caso es posible entender que los usuarios deberían conocer no solo que datos se están recopilando, si no también para que serán utilizados posteriormente. El caso comprueba que en el proceso de tratar datos, la ética debería estar presente en todo momento, desde la recolección de los datos y su almacenamiento, hasta su análisis, transferencia y uso final. Principios como el consentimiento informado, la transparencia y la responsabilidad sobre los datos tratados, deberían verse como parte fundamental del trabajo profesional y no como obstáculos. 
+Esto plantea una **diferencia importante entre tener acceso a un dato y tener la autorización para su uso y distribución**. Aunque la forma en la que Facebook operaba permitía tener acceso a los contactos de las personas, estas personas no habían decidido participar directamente en el proyecto. Desde la ética, la posibilidad técnica de acceder a un dato no debería interpretarse automáticamente como autorización para su uso o procesamiento. A través de este caso es posible entender que los usuarios deberían conocer no solo que datos se están recopilando, si no también para que serán utilizados posteriormente. El caso comprueba que en el proceso de tratar datos, la ética debería estar presente en todo momento, desde la recolección de los datos y su almacenamiento, hasta su análisis, transferencia y uso final. Principios como el consentimiento informado, la transparencia y la responsabilidad sobre los datos tratados, deberían verse como parte fundamental del trabajo profesional y no como obstáculos. 
 
 ### Conclusiones
 
